@@ -1,0 +1,2 @@
+- Utilized Microsoft Excel to clean and organize a Kaggle dataset on various coffee products, providing insights into their types and sizes. 
+- Applied advanced formulas to merge datasets into a data chart, and utilized pivot tables, slicers, and a timeline to enhance dashboard visualization.  
