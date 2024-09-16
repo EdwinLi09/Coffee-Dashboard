@@ -1,1 +1,5 @@
 - Determine each different Coffee types on their sales and analyze the various trends on each sale. 
+- Can filter through each category, including the timeline, to present different trends on the three graphs that are titled "Total Sales Over Time", "Sales By Country", and "Top 5 Customers".
+- Which country has the most coffee sales?
+- Who are the top customers within a certain time period?
+- Which coffee type has the most sales over time? 
