@@ -1,4 +1,4 @@
-# Coffee Sales
+# Coffee Sales Dashboard
 
 Through this Microsoft Excel project, I developed an interactive dashboard on Microsoft Excel that cleans and organizes a Kaggle dataset on various coffee products. This allows users to filter through categories and timelines to present trends on three graphs: "Total Sales Over Time", "Sales by Country", and "Top 5 Customers."<br/>
 Questions to consider:<br/>  
