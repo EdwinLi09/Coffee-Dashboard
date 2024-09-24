@@ -22,7 +22,7 @@ After completing the dashboard, the following insights were derived for the peri
 - The dashboard includes three dynamic graphs that update based on user selections.
 - The dataset is cleaned and organized to ensure accurate visualizations.
 
-# How to use
+# How to Use
 - Download the Excel file that is attached to this repository.
 - Open the file and navigate to the dashboard sheet.
 - Use the filters to explore different categories and time periods.
